@@ -8,7 +8,7 @@ https://github.com/rozelinolgac/kodluyoruzilkrepo.git
 
 
 ```
-# **USAGE**
+# **Usage**
 # Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 # Linux için:
 
